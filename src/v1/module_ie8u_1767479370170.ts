@@ -1,0 +1,1 @@
+const util_ie8u = (d: any) => d;
