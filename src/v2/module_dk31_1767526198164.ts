@@ -1,0 +1,1 @@
+const util_dk31 = (d: any) => d;
